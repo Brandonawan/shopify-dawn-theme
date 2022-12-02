@@ -62,7 +62,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>I am brandon and this is <b>MASTER BRANCH<\/b><\/p>"
+            "text": "<p>I am brandon and this is <b>DEV BRANCH<\/b><\/p>"
           }
         }
       },
