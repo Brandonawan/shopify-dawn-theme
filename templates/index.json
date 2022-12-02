@@ -55,7 +55,7 @@
           "type": "heading",
           "settings": {
             "heading": "<p>Talk about your brand<\/p>",
-            "text": "<p>I am brandon and this is <b>MASTER BRANCH<\/b><\/p>",
+            "text": "<p>I am brandon and this is <b>FEATURE BRANCH<\/b><\/p>",
             "heading_size": "h1"
           }
         },
