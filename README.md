@@ -20,6 +20,7 @@
 * On you terminal after the above installation step, enter this;.
 `theme get --list --password=your-password --store="your-store.myshopify.com" `
 This will get a list of all the themes in the shop with current one indicated as `active` by the side.
+
 **Tip: Don't include the URL protocol (HTTP or HTTPS) in the store parameter.**
 **Using powershell;** `theme get --list -p=[password] -s="my-store.myshopify.com"`
 
